@@ -1,17 +1,17 @@
 - 👋 Hi, I’m @AnthonyWhite34
 -👀 I’m interested in...
-  - Software Development – Building applications with C# and .NET
-  - Game Development – Developing games in Unity (Tower Defense, Horde Survival, JRPGs)
+  - Software Development – Building applications with C++
+  - Game Development – Developing games in Unreal Engine
   - AI & Computer Vision – Exploring YOLOv5 for object detection in applications
   - Cloud & DevOps – Learning about AWS, Google Cloud, and security best practices
 - 🌱 I’m currently learning ...
-  - Advanced C# & .NET Framework development
+  - C++ development
   - Unity
   - Machine learning applications
   - HTML5 & CSS 
 - 💞️ I’m looking to collaborate on ...
-   - Open-source C# and Unity game projects
+   - Open-source C++ and Unreal Engine Projects
 - 📫 How to reach me ...
-   - Anthony.White34@outlookl.com
+   - Anthony.White34@outlook.com
 - ⚡ Fun fact: ...
 
