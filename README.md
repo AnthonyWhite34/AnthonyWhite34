@@ -1,6 +1,6 @@
 - Hi, I’m Anthony Williams-White
 -I’m interested in...
-  - Software Development - Building applications with C++
+  - Software Engineer - Building applications with C++
   - Game Development - Developing games in Unreal Engine
   - AI & Computer Vision - Exploring YOLOv5 for object detection in applications
   - Cloud & DevOps - Learning about Azure, and security best practices
