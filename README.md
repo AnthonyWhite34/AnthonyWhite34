@@ -2,7 +2,7 @@
 -I’m interested in...
   - Software Engineer - Building applications with C++
   - Game Development - Developing games in Unreal Engine
-  - AI & Computer Vision - Exploring YOLOv5 for object detection in applications
+  - AI & Computer Vision - Exploring YOLOv11 for object detection in applications
   - Cloud & DevOps - Learning about Azure, and security best practices
 - I’m currently learning
   - C++ development
